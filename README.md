@@ -1,8 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ashmit Rawat !</h1>
-<h3 align="center">I am from Uttarakhand and currently residing in Delhi, I am pursuing B-tech in Computer science Engineering from Graphic Era Hill University in Dehradun. Reason to take CSE because I am curious to know about Websites and ML which is also my interest. besides from this my area of interests are watching Anime, and to gain new knowledge.</h3>
-
-- 🌱 I’m currently learning **Generative Ai From Oracale University**
+<h3 align="center">I am from Uttarakhand and currently residing in Delhi, I have completed my B-tech in Computer science Engineering from Graphic Era Hill University in Dehradun. Reason to take CSE because I am curious to know about Websites and ML which is also my interest. besides from this my area of interests are watching Anime, and to gain new knowledge.</h3>
 
 - 👨‍💻 All of my projects are available at [github.com/Ashmit2002](github.com/Ashmit2002)
 
